@@ -1,6 +1,6 @@
 # Scaling-laws  
 
-File: DataSet.csv  
+*File: DataSet.csv*  
 Column description  
 PDBid ...  Protein Data Bank identification   
 CAatoms ... number of CA atoms (residues)  
@@ -13,6 +13,6 @@ central ... number of central nodes in graph
 peripheral ... number of peripheral nodes in graph  
 tot.solv.A. ... total solvent accessible area of protein  
 
-File: DataSetHistogram.csv  
+*File: DataSetHistogram.csv*  
 column ... histogram breaks  
 row ... PDBid  
