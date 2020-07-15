@@ -1,7 +1,7 @@
 # Scaling-laws
 
 File: DataSet.csv
-PDBid ...  Protein Data Bank identification cod
+PDBid ...  Protein Data Bank identification 
 CAatoms ... number of CA atoms (residues)
 Rg-rgyr ... 
 MND ... Mean Node Degree
